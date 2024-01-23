@@ -21,8 +21,8 @@
  
 <br>
  
-### Segue meu LinkdeIn abaixo!
+### Me segue no meu LinkdeIn abaixo!
  
 <div> 
-  <a href="https://www.linkedin.com/in/donidev2024" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/donidev2024" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
