@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil do Cargnieli2016 😁
+<h2 align="center">Sou ligado em tecnologia e inovação!</h2>
 
  <div>
    <a href="https://github.com/cargnieli2016">
