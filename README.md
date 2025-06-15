@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Cargnieli no GitHub. 😁
-<h2 align="center">Sou ligado em tecnologia e inovação!</h2>
+<h2 align="center">ligado em tecnologia e inovação!</h2>
 
  <div>
    <a href="https://github.com/cargnieli2016">
