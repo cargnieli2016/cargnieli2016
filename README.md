@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do WaLt DoniZt CargN no GitHub. 😁
-<h2 align="center">Ligado em tecnologia e inovação!</h2>
+<h2 align="center">Sou Ligado em tecnologia e inovação!</h2>
 
  <div>
    <a href="https://github.com/cargnieli2016">
