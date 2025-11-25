@@ -22,7 +22,7 @@
  
 <br>
  
-### Me segue no meu LinkdeIn abaixo!
+### Meus Contatos!
  
 <div> 
  <a href = "mailto:nipdev@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
