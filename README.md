@@ -20,8 +20,6 @@
   <img align="center" alt="SPRING" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
 </div>
  
-<br>
- 
 ### Meus Contatos!
  
 <div> 
